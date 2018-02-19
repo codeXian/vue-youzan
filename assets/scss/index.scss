@@ -1,0 +1,18 @@
+@import './variable.scss';
+
+body {
+  background-color: $bg-default;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  margin: 0;
+}
